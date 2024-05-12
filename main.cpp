@@ -31,6 +31,7 @@ int main()
   // createScheduleGrid(courses); 
 
   // A function that allows the user to create a new course
+   cout << " " << endl;
   cout << "**Generating a New Course**" << endl;
   Course myCourse("C++ Programming", "CS 4200", "R1", "Introduction to R Programming",
   3, "55555", "Fall 2024", "Professor Trovato", {"T/F 10:00 AM"}, "T/F");
