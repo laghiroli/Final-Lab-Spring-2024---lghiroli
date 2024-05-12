@@ -72,7 +72,7 @@ int main()
         iss >> grade;        
 
         // Print the extracted grade (used to troubleshoot errors getting just the grade)
-        cout << "**Calculating Student GPA from Transcript**" << endl;"
+        cout << "**Calculating Student GPA from Transcript**" << endl;
         cout << "Extracted Student Grade: " << grade << endl;
 
         // Add the grade to the vector
